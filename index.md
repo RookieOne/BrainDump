@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Brain Dump
+tagline: Unloading and sharing
 ---
 {% include JB/setup %}
 
+Read [Rails](rails/)
+
+<!-- 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
@@ -44,3 +47,4 @@ This theme is still unfinished. If you'd like to be added as a contributor, [ple
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
+ -->
