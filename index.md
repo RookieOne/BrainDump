@@ -5,7 +5,8 @@ tagline: Unloading and sharing
 ---
 {% include JB/setup %}
 
-Read [Rails](rails/)
+[Markdown](misc/markdown.html)
+[Rails](rails/)
 
 <!-- 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
